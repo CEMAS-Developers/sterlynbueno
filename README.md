@@ -1,16 +1,14 @@
-### Hi there 👋
+soy Sterlyn 
+me gusta aprender  cosas nuevas y que sean productivas  para un mañana  tambien  soy estudiante del centro educativo manuel acevedo serrano fe y alegria  estoy cursando 6toB  informatica .
+this file) appears on your GitHub profile.ere are some ideas to get you started:
 
-<!--
-**sterlynbueno/sterlynbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  algunos  proyectos en git
+- 🤔 I’m looking for help  para aprender mas acerca de github
+- 📫 How to reach me: puenden coctactarme por mis redes sociales  
+como facebook como Esterlin Bueno Sanchez
+en  instagram como:  sterlinbueno4
+- 😄 Pronoun:  la_chiki
+- ⚡ Fun fact: tengo 17  años  ,vivo en rio seco la vega
+actualmente estoy aprendiendo a usar git local y github
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->- 🌱 I’m currently learning a usar git  local y github
